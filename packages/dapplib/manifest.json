@@ -1,0 +1,24 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-administrator_role",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "GetBet",
+                "symbol": "GET",
+                "decimals": "18",
+                "supply": "100000000000"
+            }
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "vanilla"
+}
